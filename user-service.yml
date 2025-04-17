@@ -13,5 +13,5 @@ gateway:
   ip: 10.10.5.73
 
 
-order-service:
+order_service:
   url: http://127.0.0.1:8000/order-service/%s/orders
